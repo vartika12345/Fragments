@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ApplicationFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Second fragment</string>
+    <string name="fragment_one">Fragment One</string>
+    <string name="show_list">Show List!</string>
+    <string name="attaching_fragments_to_activity">Attaching Fragments To Activity</string>
+</resources>
